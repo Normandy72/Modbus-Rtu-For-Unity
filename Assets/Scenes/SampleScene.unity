@@ -608,8 +608,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08015d4ae7560b34bbc88cfaaecba97b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _operatingSystem: 0
-  _baudRate: 0
+  _operatingSystem: 1
+  _baudRate: 300
   _windowsPortName: COM3
   _androidPortName: /dev/ttyUSB0
   _deviceAddress: 0

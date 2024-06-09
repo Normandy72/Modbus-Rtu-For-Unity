@@ -94,3 +94,7 @@ Performs a diagnostic echo request.
 
 #### DiagnosticsEchoAsync(byte deviceId, byte[] data)
 Asynchronously performs a diagnostic echo request.
+
+#
+### License
+This library is distributed under the MIT license. See the LICENSE file for more details.
